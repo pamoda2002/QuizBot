@@ -87,7 +87,9 @@ Powered by modern web technologies and state-of-the-art language models, the sys
 Whether you're an individual learner looking to upskill, an educator managing student assessments, or an organization conducting technical interviews, QuizBot adapts to your workflow and allows you to focus on what truly matters: **effective learning and meaningful skill development**.
 
 
-### Join Our Mission
+###  Mission
 
-QuizBot is more than just a quiz platform—it's a movement toward smarter, more engaging education.
-Together, we can create a better, safer, and more supportive future for learners everywhere. Thank you for choosing QuizBot. Let's make learning fun, engaging, and accessible for all! ❤️
+Mission Statement (Personalized Version)
+
+Make Learning Fun with QuizBot ❤️
+QuizBot is more than just a quiz platform—it’s your personal companion for smarter, more engaging learning. Explore, practice, and challenge yourself across multiple domains, all with instant feedback and interactive AI-powered quizzes. Thank you for checking out QuizBot—let’s make learning fun, accessible, and rewarding for everyone!
