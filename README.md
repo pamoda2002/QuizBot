@@ -7,7 +7,7 @@
 The system provides a complete solution for managing learning assessments through:
 
 - **Intelligent Question Generation** - AI-powered quiz creation tailored to user skill levels
-- **Real-time Feedback System** - Instant answer evaluation with detailed explanations
+- **Real-time Feedback System** - Instant answer evaluation 
 - **Conversational Interface** - Natural chat-based learning experience
 - **Session Management** - Persistent chat history and multi-assessment tracking
 - **User Authentication** - Secure role-based access with JWT tokens
@@ -86,13 +86,6 @@ Powered by modern web technologies and state-of-the-art language models, the sys
 
 Whether you're an individual learner looking to upskill, an educator managing student assessments, or an organization conducting technical interviews, QuizBot adapts to your workflow and allows you to focus on what truly matters: **effective learning and meaningful skill development**.
 
-### Our Vision
-
-We envision a world where:
-- 🌍 **Learning is accessible** to everyone, regardless of location or background
-- 🚀 **AI enhances education** without replacing human connection
-- 📊 **Assessment is instant** and provides actionable insights
-- 🤝 **Communities collaborate** to create better learning experiences
 
 ### Join Our Mission
 
