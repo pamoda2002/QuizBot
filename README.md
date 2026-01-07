@@ -89,7 +89,5 @@ Whether you're an individual learner looking to upskill, an educator managing st
 
 ###  Mission
 
-Mission Statement (Personalized Version)
-
 Make Learning Fun with QuizBot ❤️
 QuizBot is more than just a quiz platform—it’s your personal companion for smarter, more engaging learning. Explore, practice, and challenge yourself across multiple domains, all with instant feedback and interactive AI-powered quizzes. Thank you for checking out QuizBot—let’s make learning fun, accessible, and rewarding for everyone!
