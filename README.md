@@ -2,10 +2,6 @@
 
 **QuizBot** is a comprehensive full-stack conversational AI quiz platform designed to revolutionize the way people learn and practice. Built with a modern tech stack and powered by Groq's cutting-edge LLM technology, QuizBot delivers real-time, intelligent assessments across multiple knowledge domains including Programming, DevOps, and General Knowledge.
 
-### 🎯 Mission Statement
-
-QuizBot was created with a heartfelt mission to democratize learning and make quality education accessible to everyone. By offering an intuitive and intelligent platform, our goal is to empower learners, educators, and organizations to collaborate effortlessly and achieve their educational objectives with confidence.
-
 ### 🌟 What Makes QuizBot Special?
 
 The system provides a complete solution for managing learning assessments through:
