@@ -82,7 +82,7 @@ Whether you're an individual learner, educator, or organization looking to asses
 
 **QuizBot** was created with a heartfelt mission to democratize learning and make quality education accessible to everyone, everywhere. By offering an intuitive and comprehensive platform powered by cutting-edge AI technology, our goal is to empower learners, educators, and organizations to collaborate effortlessly and achieve their educational objectives with confidence.
 
-Powered by modern web technologies and state-of-the-art language models, the system delivers a smooth and reliable experience—managing everything from simple knowledge checks to complex technical assessments while ensuring strong security and data integrity at every step.
+Powered by modern web technologies and state-of-the-art language models, the system delivers a smooth and reliable experience managing everything from simple knowledge checks to complex technical assessments while ensuring strong security and data integrity at every step.
 
 Whether you're an individual learner looking to upskill, an educator managing student assessments, or an organization conducting technical interviews, QuizBot adapts to your workflow and allows you to focus on what truly matters: **effective learning and meaningful skill development**.
 
